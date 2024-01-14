@@ -17,7 +17,7 @@ User Files : `script.rpy` (labels for user-specific needs), `custom_screen.rpy` 
 You are free to contribute to this project. As you do, please consider the following points.
 
 - The contribution help improve the existing components or add new components that are reasonably helpful.
-- Prioritize on using screens with minimal to no Python displayable class for the sake of readability for non-Python programmers who will use this in the future.
+- Prioritize on using screens with minimal to no additional Python displayable class for the sake of readability for non-Python programmers who will use this in the future.
 
 ## Future Plan
 
